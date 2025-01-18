@@ -21,3 +21,29 @@
 ## مشارکت و پشتیبانی
 
 اگر شما هم علاقه‌مند به مشارکت در توسعه این پروژه هستید یا سوالی دارید، می‌توانید از طریق بخش [Issues](https://github.com/WhileTrue0087/ProjehkadehRepo) در گیتهاب با ما در ارتباط باشید. همچنین برای ارتباط مستقیم، می‌توانید به آدرس ایمیل [Email](taha.jami.087@gmail.com) پیام بفرستید
+
+---
+
+# Projehkadeh
+
+**Projehkadeh** is a **WordPress**-based e-commerce website that helps students, trainees, and learning enthusiasts easily find, purchase, and download their student and trainee projects. This website serves as a comprehensive platform, offering a variety of projects in different categories to best meet the educational and research needs of users.
+
+## Website Link
+
+To visit the website and explore exciting projects, click the link below:
+
+[🌐 Visit Projehkadeh Website](https://projehkadeh.ir)
+
+## Project Image
+
+Below is an image of your project:
+
+![Project Image](Capture.PNG)  <!-- Replace with your image link -->
+
+## Goal of Projehkadeh
+
+The main goal of **Projehkadeh** is to create a comprehensive and reliable platform for students and trainees to easily access the projects they need. This website not only helps users complete their projects but also allows them to draw inspiration from others' ideas and samples, enhancing their skills.
+
+## Contribution and Support
+
+If you are interested in contributing to the development of this project or have any questions, you can reach out to us through the [Issues](https://github.com/WhileTrue0087/ProjehkadehRepo) section on GitHub. For direct communication, you can also send an email to [Email](taha.jami.087@gmail.com).
